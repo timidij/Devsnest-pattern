@@ -1,4 +1,4 @@
-eturn the pattern of sizeM x N with specifications:
+Return the pattern of sizeM x N with specifications:
 
 The pattern should have ‘DEVSNEST!’ written in the center.
 The pattern should only use |, . and - characters
